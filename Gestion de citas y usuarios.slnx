@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Datos/Datos.csproj" Id="60fb11d2-b10f-4a1a-a9b1-59a3bf3bbad2" />
+  <Project Path="Entidades/Entidades.csproj" Id="2c3b7c9d-1a3c-4ba9-a9cc-4103bfbceb5d" />
+  <Project Path="GUI/GUI.csproj" Id="4495197c-e2af-4f8d-ab9b-34f6b633e998" />
+  <Project Path="Logica/Logica.csproj" Id="273df10f-a7d9-44a3-a7f5-75fee68ff2fb" />
+</Solution>
