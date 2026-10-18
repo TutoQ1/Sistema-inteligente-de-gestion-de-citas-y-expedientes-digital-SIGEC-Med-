@@ -9,6 +9,6 @@ namespace Entidades
     public class HistoriaClinica
     {
         public int IdHistoria { get; set; }
-        
+        public Cita Cita { get; set; }
     }
 }

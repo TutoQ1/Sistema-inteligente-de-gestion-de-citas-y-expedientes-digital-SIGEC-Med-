@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60FB11D2-B10F-4A1A-A9B1-59A3BF3BBAD2}|Datos\\Datos.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\datos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FB11D2-B10F-4A1A-A9B1-59A3BF3BBAD2}|Datos\\Datos.csproj|solutionrelative:datos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\entidades\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\entidades\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\entidades\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FB11D2-B10F-4A1A-A9B1-59A3BF3BBAD2}|Datos\\Datos.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\datos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60FB11D2-B10F-4A1A-A9B1-59A3BF3BBAD2}|Datos\\Datos.csproj|solutionrelative:datos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\github\\proyecto 3 sistema ips\\sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-sigec-med-\\entidades\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3B7C9D-1A3C-4BA9-A9CC-4103BFBCEB5D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Profesional.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\Profesional.cs",
+              "RelativeDocumentMoniker": "Entidades\\Profesional.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\Profesional.cs",
+              "RelativeToolTip": "Entidades\\Profesional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T00:46:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cita.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\Cita.cs",
               "RelativeDocumentMoniker": "Entidades\\Cita.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\Cita.cs*",
-              "RelativeToolTip": "Entidades\\Cita.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\Cita.cs",
+              "RelativeToolTip": "Entidades\\Cita.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAD4vy8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-18T00:12:50.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HistoriaClinica.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\HistoriaClinica.cs",
               "RelativeDocumentMoniker": "Entidades\\HistoriaClinica.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\HistoriaClinica.cs*",
-              "RelativeToolTip": "Entidades\\HistoriaClinica.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\HistoriaClinica.cs",
+              "RelativeToolTip": "Entidades\\HistoriaClinica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-18T00:05:03.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\Paciente.cs",
               "RelativeDocumentMoniker": "Entidades\\Paciente.cs",
@@ -79,20 +96,20 @@
               "RelativeDocumentMoniker": "Entidades\\Persona.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Entidades\\Persona.cs",
               "RelativeToolTip": "Entidades\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T23:53:29.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Repositorio.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Datos\\Repositorio.cs",
               "RelativeDocumentMoniker": "Datos\\Repositorio.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\Proyecto 3 sistema ips\\Sistema-inteligente-de-gestion-de-citas-y-expedientes-digital-SIGEC-Med-\\Datos\\Repositorio.cs",
               "RelativeToolTip": "Datos\\Repositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T02:50:20.487Z",
               "EditorCaption": ""
