@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Usuario
+    public class Persona
     {
         public string Nombre { get; set; }
-        public string tipoDocumento { get; set; }
         public int NumeroDocumento { get; set; }
+        public DateTime FechaDeNacimiento { get; set; }
+
     }
 }
